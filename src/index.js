@@ -1,3 +1,3 @@
-const myName = "Cameron"
+const myName = "Cameron Fitzwilliam"
 
 alert('test');
